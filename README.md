@@ -90,8 +90,8 @@ The system consists of:
 1. **Clone** the repository:
 
    ```bash
-   git clone https://github.com/mayooear/ai-pdf-chatbot-langchain.git
-   cd ai-pdf-chatbot-langchain
+   git clone https://github.com/Dakshesh-Sahu/PDF-AI-BOT.git
+   cd PDF-AI-BOT
    ```
 
 2.	Install dependencies (from the monorepo root):
